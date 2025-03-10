@@ -4,6 +4,8 @@ beautifulsoup4
 requests
 langchain
 langchain-community
+langchain-core
 sentence-transformers
 chromadb
 openai
+langchain-openai 
