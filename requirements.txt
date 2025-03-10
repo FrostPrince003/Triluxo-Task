@@ -1,0 +1,9 @@
+flask
+python-dotenv
+beautifulsoup4
+requests
+langchain
+langchain-community
+sentence-transformers
+chromadb
+openai
